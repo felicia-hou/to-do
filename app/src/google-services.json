@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "648708621612",
+    "firebase_url": "https://ics45jproject5-58416.firebaseio.com",
+    "project_id": "ics45jproject5-58416",
+    "storage_bucket": "ics45jproject5-58416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648708621612:android:6cc470a591721291",
+        "android_client_info": {
+          "package_name": "com.example.felicia.ics45jproject5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648708621612-l710c23nn6adq9ajm4uecfcutnk06cc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_PrxZ9B2M-_KLwXujRfYwOEbBvi6vxgw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
